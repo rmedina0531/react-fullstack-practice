@@ -8,3 +8,25 @@
       max-width: 320px;
     }
   }
+
+.lgbtn {
+    background-color: rgb(0, 0, 0);
+    width: 150px;
+    height: 45px;
+    color: floralwhite;
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.logLabel {
+    font-weight: bolder;
+    font-size: larger;
+    margin: 10px;
+}
+
+.txtField {
+    font-weight: bolder;
+    font-size: larger;
+}
