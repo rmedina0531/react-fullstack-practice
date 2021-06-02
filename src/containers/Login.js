@@ -26,7 +26,7 @@ export default function Login() {
       await Auth.signIn(email, password);
       alert("Logged in");
     } catch (e) {
-      alert.apply(e.message);
+      alert(e.message);
     }
   }
 
